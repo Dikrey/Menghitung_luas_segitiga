@@ -2,9 +2,6 @@
 Program ini merupakan aplikasi sederhana yang ditulis menggunakan bahasa pemrograman C++. Tujuan utama dari program ini adalah untuk menghitung luas segitiga berdasarkan input nilai **alas** dan **tinggi** yang diberikan oleh pengguna. Selain itu, program ini juga menyapa pengguna dengan nama mereka, menjadikan proses penggunaan program lebih interaktif dan ramah.
 
 ---
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
 ### Fitur Program:
 1. **Input Data Pengguna:**
