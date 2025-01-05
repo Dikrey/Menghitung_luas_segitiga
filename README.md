@@ -20,9 +20,8 @@ Output Interaktif
 
 Menggunakan garis pemisah untuk memperindah output di terminal.
 
-# Contoh_output
 
-
+Contoh_output
 ==========================
  MENGHITUNG LUAS SEGITIGA
 ==========================
