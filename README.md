@@ -40,5 +40,3 @@ Subscribe : Raihan_official0307
 ```
 
 ---
-
-Dengan format ini, rumus LaTeX akan tampil rapi di GitHub.
