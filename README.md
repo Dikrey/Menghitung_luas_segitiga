@@ -1,6 +1,6 @@
 # Menghitung Luas Segitiga c++
 Program ini merupakan aplikasi sederhana yang ditulis menggunakan bahasa pemrograman C++. Tujuan utama dari program ini adalah untuk menghitung luas segitiga berdasarkan input nilai **alas** dan **tinggi** yang diberikan oleh pengguna. Selain itu, program ini juga menyapa pengguna dengan nama mereka, menjadikan proses penggunaan program lebih interaktif dan ramah.
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+
 ---
 
 ### Fitur Program:
