@@ -19,24 +19,3 @@ Output Interaktif
 3. Tampilan Rapi
 
 Menggunakan garis pemisah untuk memperindah output di terminal.
-
-
-Contoh_output
-==========================
- MENGHITUNG LUAS SEGITIGA
-==========================
-
-Masukkan nama anda : Raihan
-Masukkan nilai alas : 10
-Masukkan nilai tinggi : 5
-
-==========================
-Halo, Raihan
-Maka luas segitiga dari
-Alas : 10
-Tinggi : 5
-Maka hasilnya adalah: 25
-
-Subscribe : Raihan_official0307
-==========================
-
