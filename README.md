@@ -1,3 +1,7 @@
+Berikut deskripsi yang disesuaikan dengan rumus di GitHub menggunakan format LaTeX:
+
+---
+
 # Menghitung Luas Segitiga
 
 Program ini merupakan aplikasi sederhana yang ditulis menggunakan bahasa pemrograman C++. Tujuan utama dari program ini adalah untuk menghitung luas segitiga berdasarkan input nilai **alas** dan **tinggi** yang diberikan oleh pengguna. Selain itu, program ini juga menyapa pengguna dengan nama mereka, menjadikan proses penggunaan program lebih interaktif dan ramah.
@@ -11,9 +15,9 @@ Program ini merupakan aplikasi sederhana yang ditulis menggunakan bahasa pemrogr
 
 2. **Perhitungan Luas Segitiga:**
    - Menggunakan rumus matematika:  
-     \[
-     \text{Luas} = \frac{\text{alas} \times \text{tinggi}}{2}
-     \]
+   \[
+   \text{Luas} = \frac{\text{alas} \times \text{tinggi}}{2}
+   \]
 
 3. **Output Interaktif:**
    - Menampilkan hasil perhitungan luas segitiga secara langsung.  
@@ -45,4 +49,4 @@ Subscribe : Raihan_official0307
 
 ---
 
-Dengan struktur ini, deskripsi Anda menjadi lebih terorganisir dan mudah dipahami bagi pembaca di GitHub atau tempat lainnya.
+Dengan format ini, rumus LaTeX akan tampil rapi di GitHub.
