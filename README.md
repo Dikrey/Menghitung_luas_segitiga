@@ -10,9 +10,6 @@ Program ini merupakan aplikasi sederhana yang ditulis menggunakan bahasa pemrogr
 
 2. **Perhitungan Luas Segitiga:**
    - Menggunakan rumus matematika:  
-   \[
-   \text{Luas} = \frac{\text{alas} \times \text{tinggi}}{2}
-   \]
 
 3. **Output Interaktif:**
    - Menampilkan hasil perhitungan luas segitiga secara langsung.  
